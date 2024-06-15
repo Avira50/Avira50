@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avira50 (Aviral Tiwari)
-- 🐱‍👤 I'm going to start my journey of B.tech and today I decided to learn C++ beacuse everybody do this and I have no idea So, also go with it.
+- 🐱‍👤 I'm going to start my journey of B.tech and today I decided to learn C++.
 - 👀 I’m interested in devolop intractive AI programs and Machines which can be helpfull for our future humanity.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate any smart type(by knowledge) guy/girl(😅) who can help or join me.
